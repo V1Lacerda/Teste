@@ -1,0 +1,17 @@
+*{
+    font-family: arial;
+    color: black;
+    text-align: justify;
+}
+
+p{
+    color: rgb(76, 250, 237);
+}
+
+h1{
+    text-align: center;
+}
+
+a{
+    color: rgb(248, 14, 14);
+}
